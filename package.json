@@ -7,6 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Anitha senthilnathan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnithaS123/FAANG.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnithaS123/FAANG/issues"
+  },
+  "homepage": "https://github.com/AnithaS123/FAANG#readme"
 }
